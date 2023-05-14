@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/make-someone-happy-today/static/css/main.ebb8863c.css",
+    "main.js": "/make-someone-happy-today/static/js/main.bf48dc46.js",
+    "static/js/787.da2efaae.chunk.js": "/make-someone-happy-today/static/js/787.da2efaae.chunk.js",
+    "index.html": "/make-someone-happy-today/index.html",
+    "main.ebb8863c.css.map": "/make-someone-happy-today/static/css/main.ebb8863c.css.map",
+    "main.bf48dc46.js.map": "/make-someone-happy-today/static/js/main.bf48dc46.js.map",
+    "787.da2efaae.chunk.js.map": "/make-someone-happy-today/static/js/787.da2efaae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb8863c.css",
+    "static/js/main.bf48dc46.js"
+  ]
+}
